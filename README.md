@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi Everyone! 👋
+My name is Ponfun Kumpup, or you can call me Tomtam. I am 27 years old living in Bangkok, Thailand.
 <!--
 **tomtampfkp/Tomtampfkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
